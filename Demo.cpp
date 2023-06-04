@@ -41,7 +41,5 @@ int main() {
     container.removeElement(9);
     std::cout << "Size of container after removing an element: " << container.size() << std::endl;
     
-    cout<<rand()<<endl;
-    cout<<rand()<<endl;cout<<rand()<<endl;cout<<rand()<<endl;cout<<rand()<<endl;cout<<rand()<<endl;
     return 0;
 }
